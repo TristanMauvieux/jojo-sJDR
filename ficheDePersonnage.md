@@ -22,6 +22,7 @@
 **comportement** (s'il y a)
 **Element en relation**:
 
+
 #Stat du stand
 **Pouvoir**
 **Vitesse**
@@ -48,7 +49,7 @@
 * Physique: physique de votre personnage, une image peut suffire. Apres les particularité physique peuvent avoir un impact sur votre RP
 * Valeur : Je demande cinqs valeur pour votre personnage, en gros 2 qualité et 2 default et 1 au choix, qui vont determiné le caractère de votre personnage.
 * 
-* Les Stats (205 points à repartir ( à débatre) )
+* Les Stats (225 points à repartir ( à débatre) )
 * Force : represente la force physique de personnage, sa capacité à combattre, ou a soulever des choses lourde.
 * Intelligence : Représente le savoir de votre personnage, à quel point il est malin, et ça capacité à improvisé.
 * Agilité : Represente sa capacité à ce mouvoir, à esquivé, être discret, et faire des choses qui demande du doigté ( vol à la tire par exemple)
@@ -60,6 +61,7 @@
 * physique : la forme de votre stand peut être tous et n'importe quoi, mais en général il n'est pas plus grand qu'un PAQUEBOT DE CROISIERE ! et pas plus petit qu'une mouche. Votre stand peut avoir plusieur representation comme SIX SEX PISTOL, mais c'est stand sont rare et son en général petit.
 * comportement : Un stand peu avoir un comportement propre, rare sont ceux qui sont autonome et qui on une vrai personnalité, mais certain on des petits truc, exemple : Star platinium à pour comportement de cria ORA, à chaque fois qu'il frappe.
 * Element en relation : Les stands on en général une connection plus ou moins grande avec un élément ( même si j'ai des doutes parfois ), ce champs n'est pas obligatoire. Comme exemple d'élément on as le temps ( THE WORLD et Star platinium peuvent arreté le temps), le feu ( Magician Red), Divination ( Hermit purple), terre (Hierophant Green), Bref laisser parler votre imagination
+
 
 * Les stats du stand ( je vous conseil de visité ce lien, qui explique en detail les stats et le concepts de stand http://fr.jjba.wikia.com/wiki/Stand)
 (au jet de dé ?)
