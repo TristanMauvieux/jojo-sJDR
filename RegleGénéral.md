@@ -98,4 +98,7 @@ Stand B = 0 action
 
 # Le hors combat
 
-
+Oui le hors combat existe, et c'est même le principal dans jojo's. En général le hors combat n'as pas besoin d'être géré en terme de règle, mais je tiens à précisé deux trois choses ici. 
+* Le stand peut être utilisé à tous moment, on peux s'en servir pour triché lors d'une intérro, on encore pour aller chopé le verre de jus de pomme le plus proche.
+* Les gens ne sont pas tous au courant de l'existance des stands, donc faite attention, car les gens qui remarque des chose surnaturel on tendance à réagir de manière étrange.
+* Si l'action de votre stand fait rentré quelqu'un en situation de conflit alors le cout en action est utiliser. exemple si votre stand charge pour arreter quelqu'un, vous entrez en situation de conflit, et vous perdez vos deux actions ( pareil pour les ennemis )
