@@ -48,6 +48,51 @@ Ce choix est fait parce que les stands on plus de chance de reussir une action q
 
 Un combat va se derouler part un nombre d'action.
 
+Une action manieur.
+Et action Du stand.
+
+Les actions du stand sont déterminé par le rang de la stat de portée et le rang de la stat de vitesse diviser part 2.
+un rang A = 5
+un rang B = 4
+un rang C = 3
+un rang D = 2
+un rang E = 1
+
+de ce fait si on as A en vitesse, et A en portée notre stand peux avoir 5 actions
+Si le stand à E en vitesse, et E en portée, le stand à 1 actions
+( le nombre d'action est arrondie a l'inferieur)
+etc etc
+
+**Une action :** Une action est le fait d'agir. se déplacer = 1 action, donner un coups de poing = 1 actions, une charge = 2 action ( ou plus celons la distance de la charge), parade = 1 actions, esquive = 1 actions
+
+Le nombre d'action se recharge au debut du tours.
+C'est à dire imaginons un stand qui à 5 action part tour et un stand qui en a 2
+Stand A 5 action
+Stand B 2 action
+
+* Le stand A charge 
+Le stand B se defend
+Le Stand B attaque
+Le stand A se defend
+
+* à la fin du tours il reste 
+Stand A = 2 action
+Stand B = 0 action
+
+* Nouveau tour
+
+* Stand A Attaque deux fois
+Stand B se defend 1 fois
+Le stand B attaque
+Le stand A esquive et recul 2 fois
+
+* Fin du tour 
+Stand A = 0 action
+Stand B = 0 action
+
+**S'il reste des actions à la fin du tours, elles sont perdu, les actions ne sont pas cumulable d'un tours à l'autre**
+
+
 
 
 
