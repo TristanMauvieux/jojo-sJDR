@@ -1,12 +1,12 @@
-## Regle général
+### Regle général
 
-#La création de personnage
+##La création de personnage
 
 **les stats**
 Point de vie : représente les point de santé de votre personnage
 
 
-#Le stand
+##Le stand
 
 Les stats des stands sont articulé autour des dés 20.
 On considère que le stand reussi son action si le dé 20 fait un score inférieur à la stat associer.
