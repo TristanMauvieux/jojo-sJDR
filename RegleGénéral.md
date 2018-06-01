@@ -102,3 +102,16 @@ Oui le hors combat existe, et c'est même le principal dans jojo's. En général
 * Le stand peut être utilisé à tous moment, on peux s'en servir pour triché lors d'une intérro, on encore pour aller chopé le verre de jus de pomme le plus proche.
 * Les gens ne sont pas tous au courant de l'existance des stands, donc faite attention, car les gens qui remarque des chose surnaturel on tendance à réagir de manière étrange.
 * Si l'action de votre stand fait rentré quelqu'un en situation de conflit alors le cout en action est utiliser. exemple si votre stand charge pour arreter quelqu'un, vous entrez en situation de conflit, et vous perdez vos deux actions ( pareil pour les ennemis )
+
+# La furtivité
+
+Le systeme de furtivité sera géré en fonction de l'agilité de votre manieur de stand.
+
+Les tours de furtivité ce déroule comme ceci :
+* Si le lancé reussi, je rentre en furtivité
+* action ennemi
+* Si je ne fais rien, pas de test, si je me deplace lentement jet avec bonus, si je fais action particulière genre sortir de la pièce, jet normal, si je fais une attaque, la furtivité disparait ( sauf en cas d'attaque à distance, jet de futivité avec malus )
+* Si repéré alors je perd ma furtivité
+
+La furtivité permet d'augementé vos dégat, et augemente le taux de reussite critique, et d'échec  critique de 5.
+
