@@ -8,9 +8,37 @@
 
 ##La création de personnage
 
+systeme de jeu.
+
+Utilisation de dé 10.
+Le systeme de jeu va se faire via des d10.
+
+les 1 sont des échecs critiques
+les 10 sont des reussites critiques.
+
+Pour réaliser vos actions vous devrez avec vos reussite depassé un seuil de difficulté.
+ exemple : Imaginon que vous avez 3d10 en volonté. 
+ Pour reussire un test de perception difficulté 10, la somme de vos trois D devra est supérieur à 10.
+
+Gestion des reussites et échec critique.
+imaginons maintenant que vos dé font 10,5 et 10. cela fait un total de 25. 
+Mais vous avez fait deux 10. Ce sont deux reussite critique, vous avez donc le droit de rajouter 2 d à votre total. 
+Imaginons que les 2 d que vous lancez font 3 et 10.
+Vous avez le droit de relancer encore 1d10 à ajouter a votre total.
+
+A l'inverse les échec critique, annule vos reussite critique.
+
+Dans le jeu, on considère que si une reussite dépasse le seuil de difficulté de 5 points on dis que c'est une reussite avec style, ce qui va octroyé des effet bénéfique pour le joueur.
+si votre jet est inférieur de 10 point aux seuil de reussite, alors c'est un echec lourd de conséquence, qui entrainera des conséquance négative sur votre personnage.
+
+
+
+
 **les stats**
 Point de vie : représente les point de santé de votre personnage.
 Point d'esprit : Représente l'état de fatigue de votre personnage.
+
+
 
 
 ##Le stand
