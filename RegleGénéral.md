@@ -1,5 +1,11 @@
 ### Regle général
 
+## Systeme de jeu
+
+
+
+
+
 ##La création de personnage
 
 **les stats**
