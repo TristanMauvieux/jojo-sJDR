@@ -10,6 +10,8 @@
 **Physique**
 **Valeur**
 
+
+(15 d10)
 **Force**
 **Intelligence**
 **Agilité**
@@ -19,11 +21,11 @@
 #stand
 **nom**
 **physique/forme**
-**comportement** (s'il y a)
+**comportement** (si le stand en à un)
 **Element en relation**:
 
 
-#Stat du stand
+#Stat du stand ( 15 D 10 à repartir)
 **Pouvoir**
 **Vitesse**
 **Portée**
@@ -49,7 +51,7 @@
 * Physique: physique de votre personnage, une image peut suffire. Apres les particularité physique peuvent avoir un impact sur votre RP
 * Valeur : Je demande cinqs valeur pour votre personnage, en gros 2 qualité et 2 default et 1 au choix, qui vont determiné le caractère de votre personnage.
 * 
-* Les Stats (225 points à repartir ( à débatre) )
+* Les Stats (15 d 10 à repartir entre vos stat ( à débattre) )
 * Force : represente la force physique de personnage, sa capacité à combattre, ou a soulever des choses lourde.
 * Intelligence : Représente le savoir de votre personnage, à quel point il est malin, et ça capacité à improvisé.
 * Agilité : Represente sa capacité à ce mouvoir, à esquivé, être discret, et faire des choses qui demande du doigté ( vol à la tire par exemple)
@@ -64,7 +66,6 @@
 
 
 * Les stats du stand ( je vous conseil de visité ce lien, qui explique en detail les stats et le concepts de stand http://fr.jjba.wikia.com/wiki/Stand)
-(au jet de dé ?)
 * Puissance : Puissance d'attaque du stand ( force de frappe)
 * Vitesse : Represente la vitesse de déplacement du stand, ainsi que son agilité (sa capacité à ce mouvoir)
 * Portée : Represente la distance à laquel le stand peut s'éloingé

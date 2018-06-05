@@ -2,34 +2,28 @@
 
 ## Systeme de jeu
 
-
-
-
-
-##La création de personnage
-
 systeme de jeu.
 
 Utilisation de dé 10.
-Le systeme de jeu va se faire via des d10.
+Le système de jeu va se faire via des d10.
 
-les 1 sont des échecs critiques
-les 10 sont des reussites critiques.
+Les 1 sont des échecs critiques.
+Les 10 sont des réussites critiques.
 
-Pour réaliser vos actions vous devrez avec vos reussite depassé un seuil de difficulté.
- exemple : Imaginon que vous avez 3d10 en volonté. 
- Pour reussire un test de perception difficulté 10, la somme de vos trois D devra est supérieur à 10.
+Pour réaliser vos actions vous devrez avec vos réussites dépassé un seuil de difficulté.
+Exemple : Imaginons que vous avez 3d10 en volonté.
+Pour réussir un test de perception difficulté 10, la somme de vos trois D devra est supérieur à 10.
 
-Gestion des reussites et échec critique.
-imaginons maintenant que vos dé font 10,5 et 10. cela fait un total de 25. 
-Mais vous avez fait deux 10. Ce sont deux reussite critique, vous avez donc le droit de rajouter 2 d à votre total. 
+Gestion des réussites et échec critique.
+Imaginons maintenant que vos dé font 10,5 et 10. Cela fait un total de 25.
+Mais vous avez fait deux 10. Ce sont deux réussites critiques, vous avez donc le droit de rajouter 2 d à votre total.
 Imaginons que les 2 d que vous lancez font 3 et 10.
-Vous avez le droit de relancer encore 1d10 à ajouter a votre total.
+Vous avez le droit de relancer encore 1d10 à ajouter à votre total.
 
-A l'inverse les échec critique, annule vos reussite critique.
+À l'inverse les échec critique, annule vos réussite critique.
 
-Dans le jeu, on considère que si une reussite dépasse le seuil de difficulté de 5 points on dis que c'est une reussite avec style, ce qui va octroyé des effet bénéfique pour le joueur.
-si votre jet est inférieur de 10 point aux seuil de reussite, alors c'est un echec lourd de conséquence, qui entrainera des conséquance négative sur votre personnage.
+Dans le jeu, on considère que si une réussite dépasse le seuil de difficulté de 5 points, on dit que c'est une réussite avec style, ce qui va octroyer des effets bénéfiques pour le joueur.
+Si votre jet est inférieur de 10 point aux seuils de réussite, alors c'est un échecs lourd de conséquence, qui entraînera des conséquences négative sur votre personnage.
 
 
 
@@ -48,14 +42,14 @@ On considère que le stand reussi son action si le dé 20 fait un score inférie
 
 Les rangs
 
-* E entre 0-4
-* D entre 5 - 7
-* C entre 7 - 10
-* B entre 10 - 13
-* A a partir de 13 jusqu'a plus
+* E = 1d10
+* D = 2d10
+* C = 3d10
+* B = 4d10
+* A = 5d10
 
-Maximun pour les stat des stand à 18 
-55 points à répartir.
+15 d10 à repartir entre les stats du stand
+
 
 Ce qu'il représente :
 * pouvoir : Permet de connaitre sa puissance physique ? Permet de savoir si tu touches ou non.
