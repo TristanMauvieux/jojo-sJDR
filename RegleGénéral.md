@@ -16,11 +16,11 @@ Pour réussir un test de perception difficulté 10, la somme de vos trois D devr
 
 Gestion des réussites et échec critique.
 Imaginons maintenant que vos dé font 10,5 et 10. Cela fait un total de 25.
-Mais vous avez fait deux 10. Ce sont deux réussites critiques, vous avez donc le droit de rajouter 2 d à votre total.
+Mais vous avez fait deux 10. Ce sont deux réussites critiques, vous avez donc le droit de rajouter 1d10 à votre total.
 Imaginons que les 2 d que vous lancez font 3 et 10.
 Vous avez le droit de relancer encore 1d10 à ajouter à votre total.
 
-À l'inverse les échec critique, annule vos réussite critique.
+À l'inverse les échec critique, annule vos réussite critique et augemente votre cap de reussite de 5. En jeu ça veux donc dire que un 1 rajoute 5 à votre cap de reussite, mais en plus annule le fait que vous puissiez relancer un de votre 10. 
 
 Dans le jeu, on considère que si une réussite dépasse le seuil de difficulté de 5 points, on dit que c'est une réussite avec style, ce qui va octroyer des effets bénéfiques pour le joueur.
 Si votre jet est inférieur de 10 point aux seuils de réussite, alors c'est un échecs lourd de conséquence, qui entraînera des conséquences négative sur votre personnage.
@@ -35,9 +35,6 @@ Point d'esprit : Représente l'état de fatigue de votre personnage.
 
 ##Le stand
 
-Les stats des stands sont articulé autour des dés 20.
-On considère que le stand reussi son action si le dé 20 fait un score inférieur à la stat associer.
-
 Les rangs
 
 * E = 1d10
@@ -46,8 +43,7 @@ Les rangs
 * B = 4d10
 * A = 5d10
 
-15 d10 à repartir entre les stats du stand
-
+15 d10 à repartir entre les stats du stand.
 
 Ce qu'il représente :
 * pouvoir : Permet de connaitre sa puissance physique ? Permet de savoir si tu touches ou non.
@@ -57,21 +53,14 @@ Ce qu'il représente :
 * Précision : Permet de savoir s'il touche ( attaqué à distance )
 * apprentissage : A
 
-Dans le cadre du RP, votre stand aura toujours un apprentissage Rang A, car celui-ci sera amené à évoluer au fils de scéance.
-Rang fonctionne par pallier.
-une stat qui est entre 0 et 4 est 
+Dans le cadre du RP, votre stand aura toujours un apprentissage Rang A, car celui-ci sera amené à évoluer au fils des scéances.
+
 
 
 #Le combat
 
 Parfois le combat est nécéssaire. 
-
-Pour le géré on vas utilisé un systeme assez simple de jet de dé.
-Des jets avec des dé 100 pour les actions de personnage ( genre donner un coups de poing)
-Des jets avec des dé 20 pour les actions de Stand ( genre donner un coups de poing)
-
-Ce choix est fait parce que les stands on plus de chance de reussir une action quelqu'elle sois, tandis que les manieurs de stand on plus de chance de reussir des actions dans les quel ils sont bon.
-
+Le combat va se faire au tour part tour. il y aura un attaquant et un attaqué. 
 Un combat va se derouler part un nombre d'action.
 
 Une action manieur.
