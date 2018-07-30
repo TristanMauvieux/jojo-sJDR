@@ -26,12 +26,12 @@
 
 
 #Stat du stand ( 15 D 10 à repartir)
-**Pouvoir**
-**Vitesse**
-**Portée**
-**Endurance**
-**Précision**
-**Apprentissage**
+* **Pouvoir**
+* **Vitesse**
+* **Portée**
+* **Endurance**
+* **Précision**
+* **Apprentissage**
 
 #Pouvoir
 
