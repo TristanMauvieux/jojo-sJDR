@@ -1,5 +1,7 @@
 ### Regle général
 
+Note revoir le systeme d'esquive
+
 ## Systeme de jeu
 
 systeme de jeu.
@@ -66,9 +68,9 @@ Les rangs
 15 d10 à repartir entre les stats du stand.
 
 Ce qu'il représente :
-* pouvoir : Permet de connaitre sa puissance physique ? Permet de savoir si tu touches ou non.(dégat = nombre de dé lancer)
+* pouvoir : Permet de connaitre sa puissance physique ? Permet de savoir si tu touches ou non.(dégat = nombre de dé lancer)*10
 * Vitesse : Permet d'esquivé 
-* Portée : permet de de savoir si votre stand touche lors d'une attaque à distances ( dégat = au nombre de dé lancé)
+* Portée : permet de de savoir si votre stand touche lors d'une attaque à distances ( dégat = au nombre de dé lancé)*10
 * Endurance : permet de savoir si le stand disparait ou non, il determine aussi l'armure du stand((nombre de dé)*10 )
 * Précision : Permet de savoir si votre stand peut esquiver une attaque à distance
 * apprentissage : A
@@ -90,6 +92,7 @@ __Important__ :
 * La limite des pouvoirs est determiné part le cout. Vous avez 50 point à repartir entre les pouvoirs.
 * Comme les stands sont craquer ! il as été choisi pour représenté au mieux le truc, et aller au bout du délire, que les pouvoirs n'avait pas besoin de jet pour s'activé.
 * Les pouvoirs type destruction instantané, ou manipulation de l'esprit, son interdit.
+* En combat il n'y a le droit d'activé qu'un seul pouvoir part tour.
 
 
 
@@ -112,7 +115,6 @@ Si l'attaquant fait 10, mais que l'adversaire fait 5, bah il reussi l'attaque.
 Si l'attaquant fait 10, mais que l'adversaire fait 15, le defenseur reussi sa defense.
 Si l'attaquant fait 45, mais que le defenseur fait 30, le jet est une reussite critique, ce qui permet d'avoir une action contextuel en plus de faire ses dégats
 Si l'attaquant fait 20 mais que le defenseur fait 36, L'attaquant fait un echec critique, et le defenseur à droit à faire une action contextuel.
-
 
 
 

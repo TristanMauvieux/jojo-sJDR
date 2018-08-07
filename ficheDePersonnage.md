@@ -52,7 +52,7 @@
 * Valeur : Je demande cinqs valeur pour votre personnage, en gros 2 qualité et 2 default et 1 au choix, qui vont determiné le caractère de votre personnage.
 * 
 * Les Stats (15 d 10 à repartir entre vos stat ( à débattre) )
-* Force : represente la force physique de personnage, sa capacité à combattre, ou a soulever des choses lourde.
+* Force : represente la force physique du personnage, sa capacité à combattre, ou a soulever des choses lourde.
 * Intelligence : Représente le savoir de votre personnage, à quel point il est malin, et ça capacité à improvisé.
 * Agilité : Represente sa capacité à ce mouvoir, à esquivé, être discret, et faire des choses qui demande du doigté ( vol à la tire par exemple)
 * Volonté : Représente la force mental de votre personnage, sa capacité à resté calme, à réagir, et utilisé vos pouvoirs/stand
